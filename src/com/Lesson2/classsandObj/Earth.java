@@ -1,4 +1,4 @@
-package com.classsandObj;
+package com.Lesson2.classsandObj;
 
 public class Earth {
 

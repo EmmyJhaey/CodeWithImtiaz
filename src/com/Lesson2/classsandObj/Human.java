@@ -1,4 +1,4 @@
-package com.classsandObj;
+package com.Lesson2.classsandObj;
 //Blueprint of how a human should be created
 public class Human {
         //Physical Attributes of a Human

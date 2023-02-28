@@ -1,4 +1,4 @@
-package Lesson1;
+package com.Lesson1;
 
 public class HelloWorld {
 
