@@ -1,4 +1,4 @@
-package com.Lesson4;
+package com.Lesson4.loop_excersises;
 
 public class BackwardLoop {
     public static void main(String[] args) {
